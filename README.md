@@ -25,6 +25,8 @@ This repository contains my solutions to Data Structures and Algorithms problems
 ## 📂 Repository Structure
 
 ```
+C++ Maths/
+Pattern Questions/
 Arrays/
 Strings/
 Linked List/
